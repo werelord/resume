@@ -1,9 +1,9 @@
 # Skills
 - skill: Programming and Scripting Languages
-  description: 	<ul class="resume-item-list"><li>one</li><li>two</li></ul>
+  description: 	<ul class="resume-item-list"><li>Microsoft Visual C++ 7.0 (and above)</li><li>Java (Android)</li><li>Objective-C (iOS)</li><li>C# .Net 3.5/4.0 (Unity3D)</li><li>JavaScript</li><li>Python 3.4</li><li>HTML/CSS</li></ul>
 
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Operating Systems/APIs
+  description: 	<ul class="resume-item-list"><li>Windows 98/2000/XP/Vista/7/8</li><li>Android 3.x – Android 6.x</li><li>iOS 6.x – 10.x</li><li>Win32 APIs</li><li>Android SDK</li><li>iOS SDK</li><li>Unity Framework</li></ul>
 
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Key Software
+  description: <ul class="resume-item-list"><li>Visual Studio 2003+</li><li>Android Studio 1.0+</li><li>XCode 6+</li><li>Unity3D 3.51+</li><li>Git</li><li>Team Foundation Server</li><li>Git</li></ul>
